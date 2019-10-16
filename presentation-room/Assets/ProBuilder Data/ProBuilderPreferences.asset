@@ -33,7 +33,7 @@ MonoBehaviour:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 00010001
+  m_Bool_values: 
   m_Int_values: 000000000200000001000000010000000c000000000000000a000000
   m_Float_values:
   - 0.01
