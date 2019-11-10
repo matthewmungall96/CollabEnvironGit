@@ -1,11 +1,78 @@
 fileFormatVersion: 2
-guid: b1fa2400e4c3d184694d37d26a3383e9
+guid: bad22673499f6aa45ba2b8d199ebc4be
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Camera
+    100004: Floor
+    100006: Person Reference
+    100008: Walls
+    100010: Roof
+    100012: Board 2
+    100014: Cube
+    100016: Walls.001
+    100018: WhiteBoard
+    100020: Skirting
+    100022: Monitor
+    100024: Planning Board
     400000: //RootNode
-    2186277476908879412: ImportLogs
+    400002: Camera
+    400004: Floor
+    400006: Person Reference
+    400008: Walls
+    400010: Roof
+    400012: Board 2
+    400014: Cube
+    400016: Walls.001
+    400018: WhiteBoard
+    400020: Skirting
+    400022: Monitor
+    400024: Planning Board
+    2000000: Camera
+    2100000: Material
+    2100002: No Name
+    2100004: Material 2
+    2100006: Material 3
+    2100008: Material 4
+    2100010: Carpet
+    2100012: Wood Floor
+    2100014: Connector
+    2100016: Window Ledge
+    2100018: TV Stand
+    2300000: Floor
+    2300002: Person Reference
+    2300004: Walls
+    2300006: Roof
+    2300008: Board 2
+    2300010: Cube
+    2300012: Walls.001
+    2300014: WhiteBoard
+    2300016: Skirting
+    2300018: Monitor
+    2300020: Planning Board
+    3300000: Floor
+    3300002: Person Reference
+    3300004: Walls
+    3300006: Roof
+    3300008: Board 2
+    3300010: Cube
+    3300012: Walls.001
+    3300014: WhiteBoard
+    3300016: Skirting
+    3300018: Monitor
+    3300020: Planning Board
+    4300000: Floor
+    4300002: Person Reference
+    4300004: Walls
+    4300006: Roof
+    4300008: WhiteBoard
+    4300010: Board 2
+    4300012: Cube
+    4300014: Walls.001
+    4300016: Skirting
+    4300018: Planning Board
+    4300020: Monitor
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -45,17 +112,17 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
     indexFormat: 0
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
+    secondaryUVAngleDistortion: 1
+    secondaryUVAreaDistortion: 1
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 16
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
