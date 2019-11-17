@@ -1,0 +1,11 @@
+newmtl LPOP_TextureAtlas1
+map_Kd LPOP_TextureAtlas1_FULL.png
+map_Pm LPOP_TextureAtlas1_FULL-MetalGloss.png
+map_Ke LPOP_TextureAtlas1_FULL-Emissive.png
+Kd 1 1 1
+d 1
+
+newmtl Material
+Kd 0.8 0.8 0.8
+d 1
+

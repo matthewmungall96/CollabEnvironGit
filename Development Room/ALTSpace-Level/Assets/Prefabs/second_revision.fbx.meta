@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0c1ac4aad4257ac4b9d0d9dbea6acd8a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Column_Roof
+    100002: Doorway
+    100004: Doorway.001
+    100006: Floor
+    100008: Floor.001
+    100010: Floor.002
+    100012: Foundation
+    100014: Inner_Walls
+    100016: Outer_Wall
+    100018: Outer_Walls
+    100020: Outer_Walls.001
+    100022: //RootNode
+    100024: Upper_Walls
+    100026: Walls
+    100028: Walls (Lower)
+    100030: Walls (Lower).001
+    100032: Window.000
+    100034: Window.001
+    100036: Windows
+    400000: Column_Roof
+    400002: Doorway
+    400004: Doorway.001
+    400006: Floor
+    400008: Floor.001
+    400010: Floor.002
+    400012: Foundation
+    400014: Inner_Walls
+    400016: Outer_Wall
+    400018: Outer_Walls
+    400020: Outer_Walls.001
+    400022: //RootNode
+    400024: Upper_Walls
+    400026: Walls
+    400028: Walls (Lower)
+    400030: Walls (Lower).001
+    400032: Window.000
+    400034: Window.001
+    400036: Windows
+    2100000: No Name
+    2300000: Column_Roof
+    2300002: Doorway
+    2300004: Doorway.001
+    2300006: Floor
+    2300008: Floor.001
+    2300010: Floor.002
+    2300012: Foundation
+    2300014: Inner_Walls
+    2300016: Outer_Wall
+    2300018: Outer_Walls
+    2300020: Outer_Walls.001
+    2300022: Upper_Walls
+    2300024: Walls
+    2300026: Walls (Lower)
+    2300028: Walls (Lower).001
+    2300030: Window.000
+    2300032: Window.001
+    2300034: Windows
+    3300000: Column_Roof
+    3300002: Doorway
+    3300004: Doorway.001
+    3300006: Floor
+    3300008: Floor.001
+    3300010: Floor.002
+    3300012: Foundation
+    3300014: Inner_Walls
+    3300016: Outer_Wall
+    3300018: Outer_Walls
+    3300020: Outer_Walls.001
+    3300022: Upper_Walls
+    3300024: Walls
+    3300026: Walls (Lower)
+    3300028: Walls (Lower).001
+    3300030: Window.000
+    3300032: Window.001
+    3300034: Windows
+    4300000: Foundation
+    4300002: Floor.001
+    4300004: Inner_Walls
+    4300006: Outer_Walls.001
+    4300008: Column_Roof
+    4300010: Windows
+    4300012: Walls (Lower)
+    4300014: Floor.002
+    4300016: Window.000
+    4300018: Walls
+    4300020: Outer_Wall
+    4300022: Doorway.001
+    4300024: Doorway
+    4300026: Walls (Lower).001
+    4300028: Window.001
+    4300030: Outer_Walls
+    4300032: Upper_Walls
+    4300034: Floor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

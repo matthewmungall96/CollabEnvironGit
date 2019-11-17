@@ -1,0 +1,6 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/FiercePC/Documents/ALTSpace-Level/AltspaceTemp/AssetBundles/template.unity2018_1
+SceneListBegin?
+Assets/Altspace/Export/template.unity
+SceneListEnd?
