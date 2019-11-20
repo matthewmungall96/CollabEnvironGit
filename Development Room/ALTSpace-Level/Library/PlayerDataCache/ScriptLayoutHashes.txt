@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/FiercePC/Documents/ALTSpace-Level/AltspaceTemp/AssetBundles/template.unity2018_1
+D:/GitHub Repositories/CollabEnvironGit/Development Room/ALTSpace-Level/AltspaceTemp/AssetBundles/template.unity2018_1
 SceneListBegin?
 Assets/Altspace/Export/template.unity
 SceneListEnd?
